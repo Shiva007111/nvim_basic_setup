@@ -1,7 +1,9 @@
 Install LSP into the manual server to get started as below 
 
 git clone https://github.com/LuaLS/lua-language-server
+
 cd lua-language-server
+
 ./3rd/luamake/compile/install.sh
 
 Above will install the lsp server locally 
