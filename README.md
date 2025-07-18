@@ -1,7 +1,9 @@
 Start with installing neovim 
 
-sudo apt install nvim
-
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:neovim-ppa/stable
+sudo apt update
+sudo apt install neovim
 
 
 Install LSP after cloning the repos into the manual server to get started as below 
