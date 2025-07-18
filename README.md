@@ -1,4 +1,10 @@
-Install LSP into the manual server to get started as below 
+Start with installing neovim 
+
+sudo apt install nvim
+
+
+
+Install LSP after cloning the repos into the manual server to get started as below 
 
 git clone https://github.com/LuaLS/lua-language-server
 
